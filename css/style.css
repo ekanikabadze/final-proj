@@ -78,7 +78,6 @@ margin-top: 20px;
 .container-mt2-rg{ display: flex; 
     width: 45%;
     align-items: center;
-
    }
 
 
@@ -348,6 +347,29 @@ margin-top: 50px;}
     flex-direction: column;
     margin: 20px auto;
     }
+.kontact-container{flex-direction: column;}
+.map-container{width: 80%;
+margin: 20px auto;}
+.contact-us-container{width: 80%;
+margin: 20px auto;}
+}
+@media (max-width: 480px){
+.icons{background: #29ca8e;
+        border-radius: 30px;
+        color: #ffffff;
+        font-size: 16px;
+        width: 30px;px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;}
+.head-text1{font-size: 16px;}
+.cont-mt2-left{width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    }
+.foot-fa{font-size: 20px;}
+
 }
 
 
