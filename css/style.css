@@ -96,7 +96,7 @@ padding: 10px;
 .form-block{width: 100%;
     border-radius: 1px;
     border: 1px;
-    color: black;
+    color: grey;
     border-color: lightgrey;
     background-color: #e8e6e6;
     height: 40px;
@@ -297,7 +297,8 @@ flex-direction: column;}
 	border: 1px;
 	border-color: lightgrey;
     border-radius: 1px;}
-    .contact-form-block:focus{outline: none;}
+.contact-form-block:focus{outline: none;}
+.contact-form-block:focus{outline: none;}
 .contact-but-send{background-color: #28ca8e;
 border-radius: 25px;
 border: 0px;
